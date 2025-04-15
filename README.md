@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Rodrigo Sales
 
-🎯 Desenvolvedor Front-end em construção | Apaixonado por tecnologia, design e inovação.
+🎯 Desenvolvedor Web Front-end | Apaixonado por tecnologia, design e inovação.
 
 ## 🚀 Sobre mim
 
